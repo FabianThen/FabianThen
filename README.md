@@ -1,6 +1,6 @@
 # Hi, I'm Fabian Then 👋
 
-Full-stack software engineer based in Danbury, CT, building web applications and AI-powered tools. I've delivered web projects for clients since 2018 and recently finished my B.S. in Computer Science (AI & Machine Learning concentration, 3.877 GPA).
+Full-stack software engineer based in Danbury, CT, building web applications and AI-powered tools. I've delivered web projects for clients since 2018, with a B.S. in Computer Science (AI & Machine Learning concentration, 3.877 GPA).
 
 I'm looking for a **remote full-stack / software engineering role**, where I can own features end to end and work with AI in a real way.
 
